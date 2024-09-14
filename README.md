@@ -1,7 +1,7 @@
 ## Hey there, I'm Vikash Kumar! 👋
 
 ### About Me
-🎓 3rd Year Computer Science Engineering Student at Haldia Institute of Technology  
+🎓 4th Year Computer Science Engineering Student at Haldia Institute of Technology  
 👨‍💻 Passionate about coding, exploring new technologies, and building cool stuff  
 🔍 Actively seeking opportunities for learning and growth in the tech industry  
 
