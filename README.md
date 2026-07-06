@@ -1,17 +1,16 @@
 ## Hey there, I'm Vikash Kumar! 👋
 
 ### About Me
-🎓 4th Year Computer Science Engineering Student at Haldia Institute of Technology  
+Working as a Java Full-stack developer at LTM in CBDT Project.
+🎓 Completed Btech in Computer Science Engineering from Haldia Institute of Technology  
 👨‍💻 Passionate about coding, exploring new technologies, and building cool stuff  
 🔍 Actively seeking opportunities for learning and growth in the tech industry  
 
 ### Connect with Me
 🔗 [LinkedIn](https://www.linkedin.com/in/vikash-kumar-b0489b220)  
-📷 [Instagram](https://www.instagram.com/vikasshhh_02/) 
 
 ### Tech Stack
-🚀 Proficient in Java, C, JavaScript, HTML, CSS  
-🔧 Familiar with React  
+🚀 Proficient in Java, C, JavaScript, HTML, CSS, Springboot, Microservices, React
 📚 Always learning and exploring new technologies
 
 ### Let's Collaborate!
